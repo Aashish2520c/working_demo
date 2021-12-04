@@ -1,7 +1,9 @@
 # searching in google engine using selenium in python
 # the difference between "element" and "elements"
 # element - string
-# elements - lists#
+# elements - lists
+# changing something
+
 from selenium.webdriver import Firefox
 
 # it provide keys in the keyboard like RETURN, ENTER, F1, ALT
