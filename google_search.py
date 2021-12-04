@@ -2,8 +2,7 @@
 # the difference between "element" and "elements"
 # element - string
 # elements - lists
-# changing something
-
+# changing 
 from selenium.webdriver import Firefox
 
 # it provide keys in the keyboard like RETURN, ENTER, F1, ALT
