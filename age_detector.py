@@ -1,4 +1,4 @@
-# Program to calculate age in year
+## Program to calculate age in year
 # Programmer: Aashish Sharma 
 user_input = str(input("Enter your age or birth date: "))
 
